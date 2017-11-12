@@ -1,12 +1,10 @@
 # Simpson_predictor_app
 A simple app that predicts which Simpson character you make it see!
 Here is an example of it in action:
-<script src="http://vjs.zencdn.net/4.0/video.js"></script>
 
-<video id="pelican-installation" class="video-js vjs-default-skin" controls
-preload="auto" width="683" height="384" data-setup="{}">
-<source src="/static/screencasts/pelican-installation.mp4" type='video/mp4'>
-</video>
+![Demo](https://imgur.com/a/qoUKC)
+
+
 
 ### Insides on the deep learning model I used to train my image classifier
 Deep Learning model repository: https://github.com/damgambit/simpsons_characters-classification
