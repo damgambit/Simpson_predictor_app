@@ -1,5 +1,5 @@
 # Simpson_predictor_app
-A simple app that predict which Simpson character you make it see!
+A simple app that predicts which Simpson character you make it see!
 Here is an example of it in action:
 <script src="http://vjs.zencdn.net/4.0/video.js"></script>
 
@@ -37,6 +37,13 @@ cd simpson-predictions-api
 pip install -r requirements.txt
 python app.py
 ```
+
+
+## TODOs
+- Improve UI
+
+
+# Thank you!
 
 
 
