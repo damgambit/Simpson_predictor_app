@@ -93,7 +93,7 @@ export default class App extends Component<{}> {
     } else {
       // send this.state.image to the flask api
       console.log('sending')
-      axios({ url: 'http://192.168.1.8:5000/api/predict', method: 'POST', 
+      axios({ url: 'http://localhost:5000/api/predict', method: 'POST', 
               data: { image: this.state.image } }).then((response) => {
         
         this.setState({
