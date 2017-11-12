@@ -2,7 +2,7 @@
 A simple app that predicts which Simpson character you make it see!
 Here is an example of it in action:
 
-![Demo](https://i.imgur.com/SqEPNen.gifv)
+![Demo](https://i.imgur.com/SqEPNen.gif)
 
 
 
