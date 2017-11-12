@@ -2,7 +2,7 @@
 A simple app that predicts which Simpson character you make it see!
 Here is an example of it in action:
 
-![Demo](https://i.imgur.com/SqEPNen.gif)
+[Demo Video](https://i.imgur.com/SqEPNen.gif)
 
 
 
@@ -35,6 +35,16 @@ cd simpson-predictions-api
 pip install -r requirements.txt
 python app.py
 ```
+
+# Built With
+## App
+- React-Native
+
+## API
+- Python
+- Flask
+- Tensorflow
+- Keras
 
 
 ## TODOs
